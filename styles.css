@@ -1,0 +1,46 @@
+#title{
+  text-align:center;
+}
+
+#image{
+  max-width:100%;
+  height:auto;
+  display:block;
+  padding-left:20%;
+  padding-right:20%;
+}
+
+#img-caption{
+  text-align:center;
+}
+
+#tribute-info h1{
+  text-align:center;
+}
+
+#tribute-info ul{
+  margin-left:15%;
+  margin-right:15%;
+}
+
+#tribute-info li{
+  padding-bottom:15px;
+}
+
+#slogan{
+  text-align:center;
+  color:black;
+  margin-left:10%;
+  margin-right:10%;
+}
+
+#slogan1{
+  text-align:center;
+  color:black;
+  margin-left:16%;
+  margin-right:10%;
+}
+
+b{
+  margin-left:25%;
+}
